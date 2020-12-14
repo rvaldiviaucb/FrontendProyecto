@@ -1,0 +1,51 @@
+.flex-header {
+    background-color: rgb(255, 153, 0);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border: 2px solid black;
+}
+
+.flex-main {
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.flex-foto {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    border: 2px solid black;
+    align-content: center;
+    margin: 20px;
+}
+
+.flex-componente1 {
+    background-color: rgb(182, 215, 168);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.TextoSkills {
+    padding-right: 3rem;
+    padding-left: 3rem;
+    margin: 20px;
+}
+
+.componentes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    text-align: center;
+}
